@@ -1,11 +1,11 @@
 # GPT4Slack
 
 ## Routing.py
-Main flask routing definitions for the Slack App endpoints
-You will need to configure your Slack app settings as follows:
-Interactivity URL: https://your_account.pythonanywhere.com/slack/interactivity \n
-Events URL: https://your_account.pythonanywhere.com/slack/events \n
-Slash Command: https://your_account.pythonanywhere.com/slack/slash_command \n
+Main flask routing definitions for the Slack App endpoints <br/>
+You will need to configure your Slack app settings as follows: <br/>
+Interactivity URL: https://your_account.pythonanywhere.com/slack/interactivity <br/>
+Events URL: https://your_account.pythonanywhere.com/slack/events <br/>
+Slash Command: https://your_account.pythonanywhere.com/slack/slash_command 
 
 ## QueueWorker.py
 Coordinates picking items off the queue from MySQL and processing them
