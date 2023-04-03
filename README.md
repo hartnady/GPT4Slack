@@ -16,3 +16,6 @@ Contains credentials for Slack, MySQL and OpenAI (consider moving to environment
 ## Similar Projects
 If you would like to implement the same App using Node.js and Firebase (instead of Python, Flask and MySQL) checkout:
 https://github.com/magician11/openai-slack
+
+## Contact
+mark.hartnady@vrpconsulting.com
