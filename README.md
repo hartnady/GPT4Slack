@@ -52,6 +52,8 @@ Interactivity URL: https://your_account.pythonanywhere.com/slack/interactivity <
 Events URL: https://your_account.pythonanywhere.com/slack/events <br/>
 Slash Command: https://your_account.pythonanywhere.com/slack/slash_command 
 
+![image](https://user-images.githubusercontent.com/6640120/229799541-f9aa62aa-a5c7-4f25-82f6-d617e50e0a79.png)
+
 ## QueueWorker.py
 Picks items off the queue from the MySQL "jobs" table and processes them <br/>
 The inspiration for this design pattern came from https://blog.pythonanywhere.com/198
