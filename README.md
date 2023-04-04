@@ -7,7 +7,18 @@ Link coming soon
 This app is designed to be hosted on a FREE Python Anywhere account <br/>
 Please sign up for your own Python Anywhere account here: www.pythonanywhere.com <br/>
 Once you've created your account, go to the "Files" section and create a new folder (e.g. "slack") and upload these files there. <br/>
-Then, create a new Web App by navigating to the "Web" section and following the on-screen instructions. You will need to specify the "Routing.py" file as the main app file for your Flask web app.
+Then, create a new Web App by navigating to the "Web" section and following the on-screen instructions. You will need to specify the "Routing.py" file as the main app file for your Flask web app. To do this, go back to the "Web" section and scroll to "WSGI configuration file" and edit the file. Make sure it looks like this:
+<pre>
+import sys
+
+# add your project directory to the sys.path
+project_home = '**/home/vrpinc/slack**'
+if project_home not in sys.path:
+    sys.path = [project_home] + sys.path
+
+# import flask app but need to call it "application" for WSGI to work
+from **Routing** import app as application  
+</pre>
 
 ## MySQL
 From your Python Anywhere console, you will need to install a new MySQL instance. Keep the database name as default. <br/>
