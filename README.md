@@ -27,7 +27,7 @@ Events URL: https://your_account.pythonanywhere.com/slack/events <br/>
 Slash Command: https://your_account.pythonanywhere.com/slack/slash_command 
 
 ## QueueWorker.py
-Coordinates picking items off the queue from MySQL and processing them <br/>
+Picks items off the queue from the MySQL "jobs" table and processes them <br/>
 The inspiration for this design pattern came from https://blog.pythonanywhere.com/198
 
 ## Templates.py
