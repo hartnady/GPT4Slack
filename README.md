@@ -11,6 +11,20 @@ Once you've created your account, go to the "Files" section and create a new fol
 ## MySQL
 From your Python Anywhere console, you will need to install a new MySQL instance. Keep the database name as default. <br/>
 Once you've supplied a username and password, you will need to add them to the config.py file.
+You will also need to create a "jobs" table in your database.
+Open a new MySQL console for your database and enter the following commands:
+```CREATE TABLE jobs (
+    id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    slug VARCHAR(64) NOT NULL,
+    state VARCHAR(10) NOT NULL DEFAULT 'queued',
+    result INT(11) DEFAULT 0,
+    webhook_url VARCHAR(500),
+    message TEXT,
+    user_id VARCHAR(20),
+    response TEXT,
+    channel_id VARCHAR(20)
+);```
+
 
 ## Dependencies
 For these Python files to run correctly, you will need to install the "openai" module. </br>
