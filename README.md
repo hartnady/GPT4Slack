@@ -1,5 +1,9 @@
 # GPT4Slack
 
+![image](https://user-images.githubusercontent.com/6640120/229840000-6b9445a5-7637-4ccb-a732-7fe723db35c4.png)
+![image](https://user-images.githubusercontent.com/6640120/229840083-96d3ea27-230e-48ac-b54f-87c865a67360.png)
+![image](https://user-images.githubusercontent.com/6640120/229840136-48e26246-b826-41de-b8ae-afbea156604c.png)
+
 ## Overall Architecture
 Please see: https://vrpconsulting.com/wp-content/uploads/2023/04/GPT-Slack-Bot-Architecture.pdf
 
