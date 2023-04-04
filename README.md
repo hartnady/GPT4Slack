@@ -54,6 +54,7 @@ Slash Command: https://your_account.pythonanywhere.com/slack/slash_command
 
 e.g.:
 ![image](https://user-images.githubusercontent.com/6640120/229799541-f9aa62aa-a5c7-4f25-82f6-d617e50e0a79.png)
+![image](https://user-images.githubusercontent.com/6640120/229800103-4906bc66-12a4-41df-8405-87e9a3d2366a.png)
 
 ## QueueWorker.py
 Picks items off the queue from the MySQL "jobs" table and processes them <br/>
