@@ -10,6 +10,8 @@
     </tr>
  </table>
 
+## Youtube
+https://youtu.be/0JviwKBl5rI
  
 ## Overall Architecture
 Please see: https://vrpconsulting.com/wp-content/uploads/2023/04/GPT-Slack-Bot-Architecture.pdf
