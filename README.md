@@ -1,7 +1,7 @@
 # GPT4Slack
 
 ## Overall Architecture
-Link coming soon
+Please see: https://vrpconsulting.com/wp-content/uploads/2023/04/GPT-Slack-Bot-Architecture.pdf
 
 ## Hosting & App Installation
 This app is designed to be hosted on a FREE Python Anywhere account <br/>
