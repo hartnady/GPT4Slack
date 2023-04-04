@@ -7,6 +7,7 @@ Link coming soon
 This app is designed to be hosted on a FREE Python Anywhere account <br/>
 Please sign up for your own Python Anywhere account here: www.pythonanywhere.com <br/>
 Once you've created your account, go to the "Files" section and create a new folder (e.g. "slack") and upload these files there.
+Then, create a new Web App by navigating to the "Web" section and following the on-screen instructions.
 
 ## MySQL
 From your Python Anywhere console, you will need to install a new MySQL instance. Keep the database name as default. <br/>
