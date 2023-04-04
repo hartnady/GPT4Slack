@@ -1,7 +1,7 @@
 # GPT4Slack
 
 ![image](https://user-images.githubusercontent.com/6640120/229840000-6b9445a5-7637-4ccb-a732-7fe723db35c4.png) <br/>
-![image](https://user-images.githubusercontent.com/6640120/229840405-b8774085-59a5-46a4-93a6-758003e19dc4.png) <br/>
+![image](https://user-images.githubusercontent.com/6640120/229840788-7df2d607-ec06-42c2-81a9-6378515f67e0.png) <br/>
 ![image](https://user-images.githubusercontent.com/6640120/229840682-a04559fd-6525-4357-9a6d-7e5404f2b549.png)
 
 ## Overall Architecture
