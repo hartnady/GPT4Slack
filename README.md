@@ -13,7 +13,7 @@ From your Python Anywhere console, you will need to install a new MySQL instance
 Once you've supplied a username and password, you will need to add them to the config.py file.
 You will also need to create a "jobs" table in your database.
 Open a new MySQL console for your database and enter the following commands:
-```CREATE TABLE jobs (
+<pre>CREATE TABLE jobs (
     id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
     slug VARCHAR(64) NOT NULL,
     state VARCHAR(10) NOT NULL DEFAULT 'queued',
@@ -23,7 +23,7 @@ Open a new MySQL console for your database and enter the following commands:
     user_id VARCHAR(20),
     response TEXT,
     channel_id VARCHAR(20)
-);```
+);</pre>
 
 
 ## Dependencies
