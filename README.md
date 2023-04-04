@@ -1,14 +1,15 @@
 # GPT4Slack
 
-<table width="100%">
+<table width="100%" style="background-color: white;">
     <tr width="100%">
         <td colspan="2"> <img src="https://user-images.githubusercontent.com/6640120/229840000-6b9445a5-7637-4ccb-a732-7fe723db35c4.png"/> </td>
     </tr>
     <tr width="100%">
-        <td align="center"> <img src="https://user-images.githubusercontent.com/6640120/229841346-a70119bb-c3cc-4856-a556-fcd7f5097049.png"/> </td>
-        <td align="center"> <img src="https://user-images.githubusercontent.com/6640120/229840682-a04559fd-6525-4357-9a6d-7e5404f2b549.png"/> </td>
+        <td align="center" style="text-align: center;"> <img src="https://user-images.githubusercontent.com/6640120/229841346-a70119bb-c3cc-4856-a556-fcd7f5097049.png"/> </td>
+        <td align="center" style="text-align: center;"> <img src="https://user-images.githubusercontent.com/6640120/229840682-a04559fd-6525-4357-9a6d-7e5404f2b549.png"/> </td>
     </tr>
  </table>
+
  
 ## Overall Architecture
 Please see: https://vrpconsulting.com/wp-content/uploads/2023/04/GPT-Slack-Bot-Architecture.pdf
