@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/6640120/229840000-6b9445a5-7637-4ccb-a732-7fe723db35c4.png) <br/>
 ![image](https://user-images.githubusercontent.com/6640120/229840405-b8774085-59a5-46a4-93a6-758003e19dc4.png) <br/>
-![image](https://user-images.githubusercontent.com/6640120/229840136-48e26246-b826-41de-b8ae-afbea156604c.png)
 
 ## Overall Architecture
 Please see: https://vrpconsulting.com/wp-content/uploads/2023/04/GPT-Slack-Bot-Architecture.pdf
