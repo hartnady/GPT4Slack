@@ -12,12 +12,12 @@ Then, create a new Web App by navigating to the "Web" section and following the 
 import sys
 
 # add your project directory to the sys.path
-project_home = '**/home/vrpinc/slack**'
+project_home = '/home/vrpinc/slack'
 if project_home not in sys.path:
     sys.path = [project_home] + sys.path
 
 # import flask app but need to call it "application" for WSGI to work
-from **Routing** import app as application  
+from Routing import app as application  
 </pre>
 
 ## MySQL
